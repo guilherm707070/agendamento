@@ -1964,7 +1964,7 @@ video {
 }
 
 .bg-home {
-  background-image: url('/src/img/bg02.png ');
+  background-image: url('/src/img/bg02.png');
 }
 
 .decoration-slice {
@@ -2680,6 +2680,10 @@ video {
   forced-color-adjust: none;
 }
 
+header{
+  background-image: url("/src/img/bg02.png");
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -2781,4 +2785,3 @@ video {
     }
   }
 }
-
